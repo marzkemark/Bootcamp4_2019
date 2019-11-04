@@ -1,7 +1,7 @@
 body {
-	margin: 0;
+	margin: 1rem;
 	padding: 0;
-	font-family: sans-serif;
+	font-family: Georgia;
 }
 
 /* ##### general ##### */
@@ -21,13 +21,13 @@ header {
 input[type='text'] {
 	margin: 1rem;
 	background: #fff;
-	font-size: 1.3rem;
+	font-size: 1rem;
 	border: none;
 	box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
 	border-radius: 3px;
 	padding: 0 2rem;
 	width: calc(100% - 2rem);
-	height: 4rem;
+	height: 2rem;
 }
 
 /* ##### NamesList ##### */
@@ -52,6 +52,7 @@ td:hover {
 	float: left;
 	width: 50%;
 	padding: 10px;
+	background-color: #f0cb7d;
 }
 .column2 {
 	float: left;
