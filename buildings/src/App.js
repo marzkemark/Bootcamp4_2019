@@ -48,7 +48,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="bg">
-        <div className="row">
+        <div className="row" className="justify">
           <h1>UF Directory App</h1>
         </div>
 
